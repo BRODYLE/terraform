@@ -1,0 +1,5 @@
+access_key            = "LTAI5tHpLpjWfrtSiQhJTu9b"
+secret_key            = "2ZoIwJxw2kZ3n8NIrJayN8c7tK6RHA"
+region                = "ap-southeast-1"
+password              = "Passw@rd"
+vswitch-1             = "10.0.0.0/24"
